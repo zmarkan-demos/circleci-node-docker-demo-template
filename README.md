@@ -15,5 +15,7 @@ Template for CircleCI demos
 - Docker account & Heroku account & app configured
 - Set up environment values:
     - $DOCKER_LOGIN
-    - $DOCKER_PWD
+    - $DOCKER_PASSWORD
     - $HEROKU_APP_NAME
+    - $HEROKU_API_KEY
+    - $SNYK_TOKEN
